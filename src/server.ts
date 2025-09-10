@@ -8,7 +8,7 @@ const typeDefs = gql`
 
 const resolvers = {
   Query: {
-    message: () => '冴子といっしょに気持ちいいことしまくる世界',
+    message: () => '世界でいっしょに気持ちいいことを始めよう！',
   },
 };
 
